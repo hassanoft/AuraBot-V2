@@ -1,7 +1,7 @@
 services:
   - type: web
-    name: phoenix-md
-    repo: https://github.com/AbhishekSuresh2/Phoenix-MD-Bot.git
+    name: aurabot
+    repo: https://github.com/hassanoft/AuraBot-V2.git
     branch: main
     env: docker
     dockerfilePath: Dockerfile
@@ -62,7 +62,7 @@ services:
         required: false
 
       - key: AUDIO_DATA
-        value: Phoenix-MD;Abhishek Suresh;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg
+        value: AURA BOT;HASSAN;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg
         required: false
 
       - key: BOT_INFO
