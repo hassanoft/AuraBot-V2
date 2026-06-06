@@ -14,7 +14,7 @@
   
 <p align="center">  
   <a
-    <img alt="AURABot" width="350" src="https://ibb.co/pBwr9245" style="border-radius: 25px; border: 2px solid #F710B1;">
+    <img alt="AURABot" width="350" src="https://ibb.co/nNnmN0mk" style="border-radius: 25px; border: 2px solid #F710B1;">
   </a> 
 </p>
 
