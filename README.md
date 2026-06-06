@@ -1,4 +1,4 @@
-# Phoenix-MD
+# AURA-BOT
 
 > [!CAUTION]
 > ### **LEGAL NOTICE & TERMS OF USE**
@@ -8,18 +8,18 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=45&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Phoenix-MD;Multi+Device+WhatsApp+Bot;Coded+By+Abhishek+Suresh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=45&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+AURABOT;Multi+Device+WhatsApp+Bot;Coded+By+H$Λ" alt="Typing SVG" />
   </a>
 </div>
   
 <p align="center">  
-  <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt="Phoenix-MD-Bot" width="350" src="https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg" style="border-radius: 15px; border: 2px solid #F710B1;">
+  <a
+    <img alt="AURABot" width="350" src="https://ibb.co/pBwr9245" style="border-radius: 25px; border: 2px solid #F710B1;">
   </a> 
 </p>
 
 <p align="center">
-  <strong>Phoenix-MD-Bot: A powerful, feature-rich WhatsApp Multi-Device Bot.</strong>
+  <strong>AURA BOT: A powerful, feature-rich WhatsApp Multi-Device Bot.</strong>
 </p>
 
 ---
