@@ -1,15 +1,15 @@
 {
-  "name": "Phoenix-MD",
+  "name": "AURA BOT",
   "version": "1.0.0",
   "description": "A Simple But Advanced WhatsApp Bot",
-  "logo": "https://i.imgur.com/T78fhJk.jpeg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Phoenix", "Phoenix-MD"],
-  "repository": "https://github.com/AbhishekSuresh2/Phoenix-MD-Bot",
+  "logo": "https://imgur.com/a/9iQAIYu",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "Hassan", "AURA BOT"],
+  "repository": "https://github.com/hassanoft/AuraBot-V2",
   "stack": "container",
 
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID Which You Received From The Pairing Code",
+      "description": "Phoenix~FierceHawke",
       "required": true
     },
 
@@ -22,7 +22,7 @@
     "MODE": {
       "description": "Enter Bot Work Mode (public or private)",
       "required": false,
-      "value": "private"
+      "value": "public"
     },
     
     "HEROKU_APP_NAME": {
@@ -38,7 +38,7 @@
     "SUDO": {
       "description": "Enter Sudo Numbers Comma Separated (e.g., 919074...,918157...)",
       "required": false,
-      "value": "919074692450,918157993101"
+      "value": "2250500525480,2250546989507"
     },
 
     "BOT_LANG": {
@@ -50,7 +50,7 @@
     "TIMEZONE": {
       "description": "Enter Your Timezone (e.g., Asia/Kolkata)",
       "required": false,
-      "value": "Asia/Kolkata"
+      "value": "Africa/Ivory Coast"
     },
 
     "BOT_INFO": {
@@ -68,7 +68,7 @@
     "AUDIO_DATA": {
       "description": "Enter Audio Metadata (Format: Title;Artist;ThumbnailUrl)",
       "required": false,
-      "value": "Phoenix-MD;Abhishek Suresh;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg"
+      "value": "AURA BOT;Hassan;https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg"
     },
 
     "ALIVE_DATA": {
